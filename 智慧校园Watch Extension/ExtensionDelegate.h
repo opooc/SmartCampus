@@ -1,0 +1,13 @@
+//
+//  ExtensionDelegate.h
+//  智慧校园Watch Extension
+//
+//  Created by doushuyao on 2017/9/14.
+//  Copyright © 2017年 opooc. All rights reserved.
+//
+
+#import <WatchKit/WatchKit.h>
+
+@interface ExtensionDelegate : NSObject <WKExtensionDelegate>
+
+@end

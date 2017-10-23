@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>cet.png</string>
+		<key>name</key>
+		<string>四六级</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon-calendar.png</string>
+		<key>name</key>
+		<string>校历</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>weather.png</string>
+		<key>name</key>
+		<string>天气</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>robot.png</string>
+		<key>name</key>
+		<string>智能回答</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>pm25.png</string>
+		<key>name</key>
+		<string>PM2.5</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>xiao.png</string>
+		<key>name</key>
+		<string>校园支付</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>taobao.png</string>
+		<key>name</key>
+		<string>手机淘宝</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>wangyiyun.png</string>
+		<key>name</key>
+		<string>网易云音乐</string>
+	</dict>
+</array>
+</plist>
